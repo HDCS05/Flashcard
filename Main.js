@@ -1,5 +1,5 @@
-var BasicCard = require("BasicCard.js");
-var ClozeCard = require("ClozeCard.js");
+var BasicCard = require("./BasicCard.js");
+var ClozeCard = require("./ClozeCard.js");
 
 
 var firstPresident = new BasicCard(
